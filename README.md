@@ -23,6 +23,7 @@ Queremos ainda tentar melhorar a expereriência entre professor e aluno através
  - Flutter
 
 ## 🔖 Layout
+Para ver o layout idealizado para a plataforma basta clicar [aqui](https://www.figma.com/file/vGcILlK7mydfC6NChtJ0pZ/Olimpo-dos-Devs?node-id=0%3A1)
 
 ## ⬇️ Instalação
  - `git clone https://github.com/Bora-Codar/Olimpo-dos-Devs---Backend.git`
